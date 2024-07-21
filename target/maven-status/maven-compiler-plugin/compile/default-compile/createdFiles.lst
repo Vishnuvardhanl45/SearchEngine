@@ -1,0 +1,5 @@
+com\example\DatabaseConnection.class
+com\example\History.class
+com\example\SearchResult.class
+com\example\HistoryResult.class
+com\example\Search.class
